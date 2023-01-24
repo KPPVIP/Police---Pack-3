@@ -1,0 +1,24 @@
+
+
+# Mapping #
+
+ensure breze_mrpd
+
+# Véhicules #
+
+ensure vehiclespolice
+
+# Scripts #
+
+ensure e_policejob
+ensure esx_policedog
+ensure N_Gpolice
+
+
+
+_____________
+
+
+
+
+
